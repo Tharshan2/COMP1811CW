@@ -1,8 +1,9 @@
-# COMP1811CW
-repository for files connected to the coursework of COMP1811
+# COMP1811SchemeCW
+repository for files connected to the Scheme coursework of COMP1811
 
-
-The following have been uploaded for the scheme work
+The following have been uploaded for the scheme work:
+- The program itself
+- The text file for the words
 
 F1 (Utility Code)
 - Occurrences 
